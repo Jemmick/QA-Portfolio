@@ -2,7 +2,7 @@
 
 This repository contains my Quality Assurance projects, including manual testing and automated testing with Playwright.
 
-I am building this portfolio to demonstrate my skills in software testing, organization, attention to detail, and continuous learning.
+This portfolio highlights my hands-on QA work in software testing, test documentation, automation, and defect reporting, with a strong focus on organization and attention to detail.
 
 ## Skills
 
