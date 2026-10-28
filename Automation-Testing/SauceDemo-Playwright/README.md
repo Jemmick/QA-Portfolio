@@ -46,4 +46,4 @@ After debugging, the complete test suite passed successfully across Chromium, Fi
 
 Run the following command from the project root:
 
-`npx playwright test Automation-Testing/SauceDemo-Playwright/saucedemo-ecommerce.spec.ts`
+'npx playwright test tests/saucedemo-ecommerce.spec.ts'
