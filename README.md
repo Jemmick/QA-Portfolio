@@ -21,7 +21,7 @@ Coverage includes:
 
 Project files:
 
-`Manual-Testing/Target-Ecommerce-Testing`
+[View Target Manual Testing Project](Manual-Testing/Target-Ecommerce-Testing)
 
 ---
 
@@ -44,11 +44,11 @@ The test suite was executed across Chromium, Firefox, and WebKit.
 
 Project documentation:
 
-`Automation-Testing/SauceDemo-Playwright`
+[View SauceDemo Playwright Project](Automation-Testing/SauceDemo-Playwright)
 
 Automation test file:
 
-`tests/saucedemo-ecommerce.spec.ts`
+[View Automation Test File](tests/saucedemo-ecommerce.spec.ts)
 
 ## Skills
 
