@@ -1,31 +1,70 @@
-# QA-Portfolio
+# QA Portfolio
 
-This repository contains my Quality Assurance projects, including manual testing and automated testing with Playwright.
+This repository showcases my hands-on Quality Assurance work in manual testing, test case design, bug reporting, and Playwright automation.
 
-This portfolio highlights my hands-on QA work in software testing, test documentation, automation, and defect reporting, with a strong focus on organization and attention to detail.
+My goal is to demonstrate practical QA skills through real testing projects, including functional testing, validation, end-to-end workflows, cross-browser testing, and test automation.
+
+## Featured Projects
+
+### Target E-Commerce Manual Testing
+
+Manual functional testing of key customer workflows on Target.com.
+
+Coverage includes:
+
+- Product search
+- Add-to-cart functionality
+- Cart quantity and pricing validation
+- Cart persistence while browsing
+- Checkout validation
+- Positive and negative checkout scenarios
+
+Project files:
+
+`Manual-Testing/Target-Ecommerce-Testing`
+
+---
+
+### SauceDemo Playwright Automation
+
+Automated end-to-end testing using Playwright and TypeScript.
+
+Automated scenarios include:
+
+- User login
+- Product page verification
+- Adding a product to the cart
+- Cart validation
+- Checkout workflow
+- Order confirmation
+
+The test suite was executed across Chromium, Firefox, and WebKit.
+
+**Result: 9 tests passed**
+
+Project documentation:
+
+`Automation-Testing/SauceDemo-Playwright`
+
+Automation test file:
+
+`tests/saucedemo-ecommerce.spec.ts`
 
 ## Skills
 
 - Manual Testing
+- Functional Testing
 - Test Case Design
+- Positive and Negative Testing
 - Bug Reporting
 - Playwright
+- TypeScript
 - Git
 - GitHub
 - Basic SQL
 - Basic Linux
 - Basic Python
 
-## Projects
-
-### Playwright Automation
-
-Automated browser testing using Playwright and TypeScript.
-
-### Manual Testing
-
-Test cases and bug reports for web applications.
-
 ## Currently Learning
 
-I am continuing to build my skills in QA automation, software testing, and test documentation.
+I am continuing to build my skills in QA automation, software testing, test documentation, and cybersecurity fundamentals.
