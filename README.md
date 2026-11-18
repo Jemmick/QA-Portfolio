@@ -50,6 +50,24 @@ Automation test file:
 
 [View Automation Test File](tests/saucedemo-ecommerce.spec.ts)
 
+---
+
+### AcademyBugs Bug Reporting
+
+Manual QA testing and defect documentation using AcademyBugs.
+
+This project includes reproducible bug reports covering:
+
+- Page responsiveness issues
+- Product content defects
+- Checkout calculation errors
+- Severity and priority assessment
+- Screenshot evidence
+
+[View AcademyBugs Bug Reporting Project](Manual-Testing/AcademyBugs-Bug-Reporting)
+
+
+
 ## Skills
 
 - Manual Testing
